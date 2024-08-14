@@ -6,7 +6,7 @@
     </p>
   <hr>
   <div>
-  I want to provide free, easy-to-use software. That's why I've made some of the code public. I'd be happy if I could be of some help!
+   I've shared some of the code, I hope it helps a little.
   </div>
   <hr>
  
