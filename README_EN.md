@@ -6,7 +6,7 @@
     </p>
   <hr>
   <div>
-   I've shared some of the code, I hope it helps a little.
+   I'm releasing part of the code. I hope it will be of some help to you!
   </div>
   <hr>
  
