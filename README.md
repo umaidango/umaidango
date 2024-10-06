@@ -1,5 +1,5 @@
 <div align="center">
-    <h3>やっほー　<a href="https://umaidango.github.io/me/">うまいだんご</a>です☆彡 </h3>
+    <h3><a href="https://umaidango.github.io/me/">うまいだんご</a>です～　ヨロ</h3>
     <p align="center">
         <a href="https://github.com/umaidango/umaidango/blob/main/README.md"><span>日本語</span></a>|
         <a href="https://github.com/umaidango/umaidango/blob/main/README_EN.md"><span>English</span></a>
