@@ -8,7 +8,7 @@
   <div>
   一部ですがコードを公開しています。少しでも力になることができたら幸いです！
     <div>--全データー公開中のもの--
-    Original Audio Player
+    <br>Original Audio Player
     </div>
   </div>
   <hr>
