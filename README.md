@@ -9,6 +9,8 @@
   一部ですがコードを公開しています。少しでも力になることができたら幸いです！
     <div>--全データー公開中のもの--
     <br>Original Audio Player
+        <br>
+        Fox Code Editor
     </div>
   </div>
   <hr>
