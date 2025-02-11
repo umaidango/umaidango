@@ -1,8 +1,8 @@
 <link href="https://kevinburke.bitbucket.io/markdowncss/markdown.css" rel="stylesheet"></link>
       
       
-# <img src="https://github.com/user-attachments/assets/11257522-140e-40fb-b433-1533f67a64d5" height="64">　うまいだんご
-主に、C#でGUIアプリを制作しています。
+# <img src="https://github.com/user-attachments/assets/11257522-140e-40fb-b433-1533f67a64d5" height="64">　udapp
+I create GUI software for Windows and Linux.
 
 <img src="https://img.shields.io/badge/--007DB8.svg?logo=dotnet&amp;style=flat" height="32px">
 
