@@ -1,11 +1,10 @@
-<link href="https://kevinburke.bitbucket.io/markdowncss/markdown.css" rel="stylesheet"></link>
+
       
-      
-# <img src="https://github.com/user-attachments/assets/11257522-140e-40fb-b433-1533f67a64d5" height="64">　udapp
+# umaidango🍡
 I create GUI software for Windows and Linux.
 
-<img src="https://img.shields.io/badge/--007DB8.svg?logo=dotnet&amp;style=flat" height="32px">
-
-![Untitled-1](https://github.com/user-attachments/assets/f02cd403-159e-48fa-97ee-ad74326ca389)
-  </div>
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umaidango&theme=city_lights) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umaidango&theme=city_lights) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umaidango&theme=city_lights) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=umaidango&theme=city_lights) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umaidango&theme=city_lights&utcOffset=8) 
