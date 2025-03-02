@@ -1,7 +1,7 @@
 
       
 # umaidango🍡
-I create GUI software for Windows and Linux.
+I create GUI software for Linux!
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umaidango&theme=city_lights) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umaidango&theme=city_lights) 
